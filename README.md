@@ -4,7 +4,9 @@
     <br><br>
 </p>
 
-# godot-ECMAScript-cookbook
+<br>
+
+# Godot ECMAScript Manual
 
 A wiki repo on how to use [Geequlim's ECMAScript Godot Module](https://github.com/Geequlim/ECMAScript)
 
