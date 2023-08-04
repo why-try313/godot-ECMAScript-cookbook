@@ -1,6 +1,6 @@
 <p align="center">
     <br><br>
-    <img width="120" src="https://github.com/why-try313/godot-ECMAScript-cookbook/blob/master/wiki-images/godotJS-logo-128.png" alt="Godot JS">
+    <img height="152" src="https://github.com/why-try313/godot-ECMAScript-cookbook/blob/master/wiki-images/godotJS-logo-128.png" alt="Godot JS">
     <br><br>
 </p>
 
