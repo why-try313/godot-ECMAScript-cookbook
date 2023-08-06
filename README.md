@@ -62,6 +62,12 @@ Head to the [Wiki tab](https://github.com/why-try313/godot-ECMAScript-cookbook/w
   - [Syntax](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-06-Tooled-scripts#syntax)
   - [How to use it with examples](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-06-Tooled-scripts#how-to-use-it-with-examples)
   - [Hot-reload is not supported (for now)](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-06-Tooled-scripts#hot-reload-is-not-supported-for-now)
+- <b>3.5 ‐ 07 Singletons</b>
+  - [Description](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#description)
+  - [Syntax](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#syntax)
+  - [How to use it with examples](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#how-to-use-it-with-examples)
+    - [The get_node method](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#the-get_node-method)
+    - [The self-referenced method with import](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#the-self-referenced-method-with-import)
 
 <br><br>
 
