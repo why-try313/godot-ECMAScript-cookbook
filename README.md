@@ -68,7 +68,9 @@ Head to the [Wiki tab](https://github.com/why-try313/godot-ECMAScript-cookbook/w
   - [How to use it with examples](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#how-to-use-it-with-examples)
     - [The get_node method](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#the-get_node-method)
     - [The self-referenced method with import](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/3.5-%E2%80%90-07-Singletons#the-self-referenced-method-with-import)
-
+- [Q&A](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/Q&A)
+  - [How to duplicate an object without its attached script?](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/Q&A#how-to-duplicate-an-object-without-its-attached-script)
+  - [How to set a material to all children of an object?](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/Q&A#how-to-set-a-material-to-all-children-of-an-object)
 <br><br>
 
 > Page missing?<br>
