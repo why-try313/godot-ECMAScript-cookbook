@@ -71,6 +71,7 @@ Head to the [Wiki tab](https://github.com/why-try313/godot-ECMAScript-cookbook/w
 - [Q&A](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/Q&A)
   - [How to duplicate an object without its attached script?](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/Q&A#how-to-duplicate-an-object-without-its-attached-script)
   - [How to set a material to all children of an object?](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/Q&A#how-to-set-a-material-to-all-children-of-an-object)
+  - [How to export a curve?](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki/Q&A#how-to-export-a-curve)
 <br><br>
 
 > Page missing?<br>
