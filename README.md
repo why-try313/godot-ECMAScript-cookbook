@@ -12,6 +12,9 @@ A wiki repo on how to use [Geequlim's ECMAScript Godot Module](https://github.co
 
 Head to the [Wiki tab](https://github.com/why-try313/godot-ECMAScript-cookbook/wiki) to get more information
 
+If you'd like an alternative source of documentation you can head to the github page of this project:<br>
+[🏷️ Alpha: https://geequlim.github.io/ECMAScript/](https://geequlim.github.io/ECMAScript/)
+
 <br>
 
 ## Contents
