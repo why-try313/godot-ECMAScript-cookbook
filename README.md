@@ -1,6 +1,8 @@
 <p align="center">
     <br><br>
-    <img height="152" src="https://github.com/why-try313/godot-ECMAScript-cookbook/blob/master/wiki-images/godotJS-logo-128.png" alt="Godot JS">
+    <a href="https://github.com/Geequlim/ECMAScript/releases" target="_blank">
+        <img height="152" src="https://github.com/why-try313/godot-ECMAScript-cookbook/blob/master/wiki-images/godotJS-logo-128.png" alt="Godot JS">
+    </a>
     <br><br>
 </p>
 
